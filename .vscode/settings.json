@@ -1,0 +1,7 @@
+{
+    "Lua.workspace.useGitIgnore": false,
+    "git.repositoryScanIgnoredFolders": [
+        "node_modules",
+        ".vscode"
+    ]
+}
